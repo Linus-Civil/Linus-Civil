@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Linus</h1>
 <h3 align="center">PhD Candidate | Geological Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linus-civil&label=Profile%20views&color=0e75b6&style=flat" alt="linus-civil" /> </p>
+
+
 - 🌱 I’m currently learning **Material Point Method**
 
 - 📝 I regularly write articles on [https://liuyong.info/](https://liuyong.info/)
@@ -8,7 +10,6 @@
 - 💬 Ask me about **Discrete Element Method (PFC)**
 
 - 📫 How to reach me **lllinus96@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
